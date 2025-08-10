@@ -240,3 +240,13 @@ obs$
   )
   .subscribe(() => console.log(NgZone.isInAngularZone())); // true
 ```
+
+## Development
+
+### Building/testing/publishing
+
+```
+npm run build
+npm run test
+npm run release
+```

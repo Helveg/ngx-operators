@@ -1,6 +1,6 @@
 {
   "name": "@helveg/ngx-operators",
-  "version": "9.0.0",
+  "version": "20.0.0",
   "author": "Nils Melhorn <mail@nils-mehlhorn.de> (https://nils-mehlhorn.de)",
   "description": "RxJS operators for Angular",
   "homepage": "https://github.com/nilsmehlhorn/ngx-operators",
@@ -21,8 +21,8 @@
     "url": "https://github.com/nilsmehlhorn/ngx-operators/issues"
   },
   "peerDependencies": {
-    "@angular/common": "^17.0.0",
-    "@angular/core": "^17.0.0"
+    "@angular/common": ">=19.0.0",
+    "@angular/core": ">=19.0.0"
   },
   "dependencies": {
     "tslib": "^2.0.0"
